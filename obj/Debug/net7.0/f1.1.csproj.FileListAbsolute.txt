@@ -1,0 +1,15 @@
+E:\มหาลัย\code mdt112\f1.1\bin\Debug\net7.0\f1.1.exe
+E:\มหาลัย\code mdt112\f1.1\bin\Debug\net7.0\f1.1.deps.json
+E:\มหาลัย\code mdt112\f1.1\bin\Debug\net7.0\f1.1.runtimeconfig.json
+E:\มหาลัย\code mdt112\f1.1\bin\Debug\net7.0\f1.1.dll
+E:\มหาลัย\code mdt112\f1.1\bin\Debug\net7.0\f1.1.pdb
+E:\มหาลัย\code mdt112\f1.1\obj\Debug\net7.0\f1.1.csproj.AssemblyReference.cache
+E:\มหาลัย\code mdt112\f1.1\obj\Debug\net7.0\f1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\มหาลัย\code mdt112\f1.1\obj\Debug\net7.0\f1.1.AssemblyInfoInputs.cache
+E:\มหาลัย\code mdt112\f1.1\obj\Debug\net7.0\f1.1.AssemblyInfo.cs
+E:\มหาลัย\code mdt112\f1.1\obj\Debug\net7.0\f1.1.csproj.CoreCompileInputs.cache
+E:\มหาลัย\code mdt112\f1.1\obj\Debug\net7.0\f1.1.dll
+E:\มหาลัย\code mdt112\f1.1\obj\Debug\net7.0\refint\f1.1.dll
+E:\มหาลัย\code mdt112\f1.1\obj\Debug\net7.0\f1.1.pdb
+E:\มหาลัย\code mdt112\f1.1\obj\Debug\net7.0\f1.1.genruntimeconfig.cache
+E:\มหาลัย\code mdt112\f1.1\obj\Debug\net7.0\ref\f1.1.dll
